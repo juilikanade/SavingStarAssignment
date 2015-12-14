@@ -1,0 +1,87 @@
+{"items":[
+  { "item":{
+   "descriptions": [
+    "1%Fat",
+    "cow",
+    "vanilla"
+  ],
+  "upc": "upc1"
+ }},
+ 
+ {"item":{
+   "descriptions": [
+    "1%Fat",
+    "cow"
+    
+  ],
+  "upc": "upc2"
+ }},
+ 
+{"item":{
+   "descriptions": [
+    "2%Fat",
+    "vanilla",
+    "almond"
+  ],
+  "upc": "upc3"
+ }},
+ {"item":{
+   "descriptions": [
+    "soy",
+    "chocolate"
+   
+  ],
+  
+  "upc": "upc4"
+ }},
+ {"item":{
+   "descriptions": [
+    "chocolate"
+  
+  ],
+  "upc": "upc5"
+ }},
+ {"item":{
+   "descriptions": [
+    "2%Fat",
+    "cow",
+    "chocolate"
+  ],
+  "upc": "upc6"
+ }},
+ {"item":{
+   "descriptions": [
+    "1%Fat",
+    "almond",
+    "vanilla"
+  ],
+  "upc": "upc7"
+ }},
+{ "item":{
+   "descriptions": [
+    "1%Fat",
+    "almond"
+    
+  ],
+  "upc": "upc8"
+ }},
+ {"item":{
+   "descriptions": [
+    "1%Fat",
+    "cow",
+    "vanilla",
+    "organic"
+  ],
+  "upc": "upc9"
+ }},
+ {"item":{
+   "descriptions": [
+    "2%Fat",
+    "cow",
+    "chocolate",
+    "organic"
+  ],
+  "upc": "upc10"
+ }}
+ ]
+ }

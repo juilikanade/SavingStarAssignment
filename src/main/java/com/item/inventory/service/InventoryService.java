@@ -42,7 +42,7 @@ public class InventoryService {
 
 		try {
 			InputStream stream = classLoader
-					.getResourceAsStream("inventory.csv");
+					.getResourceAsStream("inventory.json");
 			Reader reader = new InputStreamReader(stream);
 			JSONObject jsonObject = (JSONObject) parser.parse(reader);
 			JSONArray arrItems = (JSONArray) jsonObject.get("items");

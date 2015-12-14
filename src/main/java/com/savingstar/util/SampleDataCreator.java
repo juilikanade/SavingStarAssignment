@@ -35,7 +35,7 @@ public class SampleDataCreator {
 		try {
 
 			InputStream stream = classLoader
-					.getResourceAsStream("receipts.csv");
+					.getResourceAsStream("receipts.json");
 			Reader reader = new InputStreamReader(stream);
 			JSONObject jsonObject = (JSONObject) parser.parse(reader);
 
